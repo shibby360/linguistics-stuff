@@ -15,7 +15,7 @@ These are the single digit numbers(and 10):
 | 10(ten) | net |
 
 Other numbers are formed like so:
-| Number | Transation |
+| Number | Translation |
 | --- | --- |
 | 11(eleven) | net eno |
 | 56(fifty-six) | vif-net skis |
@@ -36,3 +36,8 @@ Here is a table for powers of ten:
 | 1000000(million) | meelan |
 | 1000000000(billion) | beelan |
 | 1000000000000(trillion) | treelan |
+
+## "Much" and "Many"
+The words for "How many" and "How much" eliminate the "How". Both are the same.  
+Example: **Nomgo lippe?**(_How many pillows?_)  
+or **Nomgo wati?**(_How much water?_)
