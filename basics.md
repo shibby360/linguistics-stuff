@@ -19,7 +19,7 @@ Converting Standard to Possesive:
 
 In a sentence: **Mame mal**(_Mom's boy_)
 ### Amounting
-Use amounting when stating an amount of a noun. Mass nous will obviously not use this form.
+Use amounting when stating a direct amount of a noun, basically a number. Mass nous will obviously not use this form.
 | Standard ending | Amounting ending | Examples |
 | --- | --- | --- |
 | -a | -u | Papa(dad) => Papu |
