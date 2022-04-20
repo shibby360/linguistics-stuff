@@ -21,9 +21,9 @@ Here are the conversion charts(from Nominative)
 ## Pronunciation
 Every letter is pronounced by itself, dipthongs and digraphs do not exist.  
 Examples:  
-fimā(f-ee-m-aa) = girl
-āknío(aa-k-n-y-o) = window
-kāir(k-aa-ee-r) = car
+fimā(f-ee-m-aa) = girl  
+āknío(aa-k-n-y-o) = window  
+kāir(k-aa-ee-r) = car  
 
 ---
 Word order is similar to English, there are changes you will soon learn.
