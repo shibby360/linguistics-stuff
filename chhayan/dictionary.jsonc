@@ -3,5 +3,15 @@
     word:'fimā',
     speech_part:'noun',
     gender:'feminine
+  },
+  window:{
+    word:'āknío',
+    speech_part:'noun',
+    gender:'neutral'
+  },
+  car:{
+    word:'kāir',
+    speech_part:'noun',
+    gender:'masculine'
   }
 }
