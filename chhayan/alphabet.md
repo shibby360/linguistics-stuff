@@ -32,7 +32,7 @@ Notice only consonants are shown, this becuase vowels are written seperately whe
 **Vowels with accent marks shown here are not written in the alphabet!**
 | Vowel | Sound(english) |
 | --- | --- |
-| A a | stand*a*rd |
+| A a | c*u*t |
 | ā | f*a*r |
 | E e | p*e*t |
 | ē | c*a*re |
