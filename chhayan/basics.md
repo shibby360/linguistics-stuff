@@ -18,6 +18,7 @@ Here are the conversion charts(from Nominative)
 | -t́ | -ś |
 | -i | -s |
 
+Anything not covered stays the same.
 ## Pronunciation
 Every letter is pronounced by itself, dipthongs and digraphs do not exist.  
 Examples:  
