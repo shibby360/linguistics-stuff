@@ -13,6 +13,8 @@ It goes like this:
 | R R | «r» |
 | L l | «l» |
 | V v | «v» |
+| M m | «m» |
+| N n | «n» |
 
 The only diacritics on consonants are acute accent, grave accent, and circumflex accent, with their uses shown below.
 | Accent | Use |
@@ -32,11 +34,12 @@ Notice only consonants are shown, this becuase vowels are written seperately whe
 **Vowels with accent marks shown here are not written in the alphabet!**
 | Vowel | Sound(english) |
 | --- | --- |
-| A a | c*u*t |
-| ā | f*a*r |
-| E e | p*e*t |
-| ē | c*a*re |
-| I i | f*ee*t |
-| í | *y*ak |
-| U u | m*oo*n |
-| ú | *w*ar |
+| A a | c<ins>u</ins>t |
+| ā | f<ins>a</ins>r |
+| E e | p<ins>e</ins>t |
+| ē | f<ins>a</ins>te |
+| I i | f<ins>ee</ins>t |
+| í | <ins>y</ins>ak |
+| O o | s<ins>oa</ins>p |
+| U u | m<ins>oo</ins>n |
+| ú | <ins>w</ins>ar |
