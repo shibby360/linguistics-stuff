@@ -23,5 +23,5 @@ Anything not covered stays the same. Pronouns do not decline.
 Every letter is pronounced by itself, dipthongs and digraphs do not exist.  
 Examples:  
 fimā(f-ee-m-aa) = girl  
-āknío(aa-k-n-y-o) = window  
+āknĭo(aa-k-n-y-o) = window  
 kāir(k-aa-ee-r) = car  
