@@ -14,5 +14,5 @@ Nouns do not change gender when changing cases, so these endings are only for No
 "His" is `Onēm`.  
 "Her/Hers" is `Ānem`.  
 "Our/Ours" is `Naśom`.  
-"Their/Theirs" is `Imíom`.  
+"Their/Theirs" is `Imĭom`.  
 These are all given assuming that the noun they will describe is neutral, so change them if needed.
