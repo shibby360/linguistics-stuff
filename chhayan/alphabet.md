@@ -39,10 +39,10 @@ Notice only consonants are shown, this becuase vowels are written seperately whe
 | E e | p<ins>e</ins>t |
 | ē | f<ins>a</ins>te |
 | I i | f<ins>ee</ins>t |
-| í | <ins>y</ins>ak |
+| ĭ | <ins>y</ins>ak |
 | O o | s<ins>oa</ins>p |
 | U u | m<ins>oo</ins>n |
-| ú | <ins>w</ins>ar |
+| ŭ | <ins>w</ins>ar |
 
 ## Practice
 Pronounce these words:  
