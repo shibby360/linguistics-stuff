@@ -5,7 +5,7 @@
     gender:'feminine'
   },
   window:{
-    word:'āknío',
+    word:'āknĭo',
     speech_part:'noun',
     gender:'neutral'
   },
@@ -43,12 +43,12 @@
     alt_ch_en:['ours']
   },
   their:{
-    word:'imíom',
+    word:'imĭom',
     speech_part:'adjective',
     alt_ch_en:['theirs']
   },
   i:{
-    word:'íā',
+    word:'ĭā',
     speech_part:'pronoun'
   },
   you:{
