@@ -10,10 +10,10 @@ Example verb chart for āk het(to be):
 
 So, verbs are pretty simple.  
 Gerunds are formed via -ḱani.  
-`Ía het pilḱani` = I am playing.
+`Ĭa het pilḱani` = I am playing.
 ## Past tense
-To put a verb in past tense, add -úās to the end.  
-`Ía pilúās` = I played.
+To put a verb in past tense, add -ŭās to the end.  
+`Ía pilŭās` = I played.
 ## Future tense
 Future tense is created by -f́iā.  
 `Ía pilf́iā` = I will play.
