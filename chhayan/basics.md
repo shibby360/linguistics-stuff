@@ -20,7 +20,7 @@ Here are the conversion charts(from Nominative)
 
 Anything not covered stays the same. Pronouns do not decline.
 ## Pronunciation
-Every letter is pronounced by itself, dipthongs and digraphs do not exist.  
+Every letter is pronounced by itself.  
 Examples:  
 fimā(f-ee-m-aa) = girl  
 āknĭo(aa-k-n-y-o) = window  
