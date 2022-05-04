@@ -4,7 +4,7 @@ It is declining, so that means nouns change based on where they are in the sente
 These are the forms:  
 + **Nominative**: The dictionary form of a noun.
 + **Genitive**: Directly from Wikipedia: "shows generic relationship, generally ownership, but also composition, reference, description, etc."
-+ **Objective**: The object of a verb.
++ **Accusative**: The _direct_ object of a verb.
 
 Here are the conversion charts(from Nominative)
 | Nominative | Genitive |
@@ -13,10 +13,10 @@ Here are the conversion charts(from Nominative)
 | -a | -ē |
 | -i | -ā |
 
-| Nominative | Objective |
+| Nominative | Accusative |
 | --- | --- |
 | -t́ | -ś |
-| -i | -s |
+| -i | -o |
 
 Anything not covered stays the same. Pronouns do not decline.
 ## Pronunciation
