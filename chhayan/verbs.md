@@ -9,6 +9,7 @@ Example verb chart for āk het(to be):
 | 3rd person | het | het |
 
 So, verbs are pretty simple.  
+Imperative and subjunctive are the stem.  
 Gerunds are formed via -ḱani.  
 `Ĭa het pilḱani` = I am playing.
 ## Past tense
@@ -17,3 +18,6 @@ To put a verb in past tense, add -ŭās to the end.
 ## Future tense
 Future tense is created by -f́iā.  
 `Ía pilf́iā` = I will play.
+## Special Verbs
+to air vent = `āk ārf́ent`  
+to jump off a swing = `āk ćŭinḱ`
