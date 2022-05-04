@@ -7,18 +7,18 @@ These are the forms:
 + **Accusative**: The _direct_ object of a verb.
 
 Here are the conversion charts(from Nominative)
-| Nominative | Genitive |
-| --- | --- |
-| -k | -c |
-| -a | -ē |
-| -i | -ā |
+| Nominative | Genitive | Example |
+| --- | --- | --- |
+| -a/-ā | -i | fimā => fimi |
+| -o/-ē | -u | āknĭo => āknĭu |
+| zero ending(consonant) | -o | kāir => kāiro |
 
-| Nominative | Accusative |
-| --- | --- |
-| -t́ | -ś |
-| -i | -o |
+| Nominative | Accusative | Example |
+| --- | --- | --- |
+| -a | -i | ŭāta => ŭāti |
+| -o/-ē | -ā | āknio => ākniā |
+| zero ending(consonant) | -u | kāir => kāiru |
 
-Anything not covered stays the same. Pronouns do not decline.
 ## Pronunciation
 Every letter is pronounced by itself.  
 Examples:  
