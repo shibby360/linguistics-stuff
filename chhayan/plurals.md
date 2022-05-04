@@ -9,7 +9,7 @@ The plural conversion charts are shown below:
 
 For Genitive, **_add_** m.
 
-| Objective | Plural |
+| Accusative | Plural |
 | --- | --- |
 | -m | -n |
 | -ć | -c |
