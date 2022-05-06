@@ -1,94 +1,94 @@
 {
-  girl:{
-    word:'fimā',
-    speech_part:'noun',
-    gender:'feminine'
+  "girl":{
+    "word":'fimā',
+    "speech_part":'noun',
+    "gender":'feminine'
   },
-  window:{
-    word:'āknĭo',
-    speech_part:'noun',
-    gender:'neutral'
+  "window":{
+    "word":'āknĭo',
+    "speech_part":'noun',
+    "gender":'neutral'
   },
-  car:{
-    word:'kāir',
-    speech_part:'noun',
-    gender:'masculine'
+  "car":{
+    "word":'kāir',
+    "speech_part":'noun',
+    "gender":'masculine'
   },
-  good:{
-    word:'ṕom',
-    speech_part:'adjective'
+  "good":{
+    "word":'ṕom',
+    "speech_part":'adjective'
   },
-  my:{
-    word:'mom',
-    speech_part:'adjective',
+  "my":{
+    "word":'mom',
+    "speech_part":'adjective',
     alt_ch_en:['mine']
   },
-  your:{
-    word:'tom',
-    speech_part:'adjective',
+  "your":{
+    "word":'tom',
+    "speech_part":'adjective',
     alt_ch_en:['yours']
   },
-  his:{
-    word:'onēm',
-    speech_part:'adjective',
+  "his":{
+    "word":'onēm',
+    "speech_part":'adjective',
   },
-  her:{
-    word:'ānem',
-    speech_part:'adjective',
+  "her":{
+    "word":'ānem',
+    "speech_part":'adjective',
     alt_ch_en:['hers']
   },
-  our:{
-    word:'naśom',
-    speech_part:'adjective',
+  "our":{
+    "word":'naśom',
+    "speech_part":'adjective',
     alt_ch_en:['ours']
   },
-  their:{
-    word:'imĭom',
-    speech_part:'adjective',
+  "their":{
+    "word":'imĭom',
+    "speech_part":'adjective',
     alt_ch_en:['theirs']
   },
-  i:{
-    word:'ĭā',
-    speech_part:'pronoun'
+  "i":{
+    "word":'ĭā',
+    "speech_part":'pronoun'
   },
-  you:{
-    word:'tu',
-    speech_part:'pronoun'
+  "you":{
+    "word":'tu',
+    "speech_part":'pronoun'
   },
-  he:{
-    word:'on',
-    speech_part:'pronoun'
+  "he":{
+    "word":'on',
+    "speech_part":'pronoun'
   },
-  she:{
-    word:'ān',
-    speech_part:'pronoun'
+  "she":{
+    "word":'ān',
+    "speech_part":'pronoun'
   },
-  we:{
-    word:'mu',
-    speech_part:'pronoun'
+  "we":{
+    "word":'mu',
+    "speech_part":'pronoun'
   },
-  they:{
-    word:'sē',
-    speech_part:'pronoun'
+  "they":{
+    "word":'sē',
+    "speech_part":'pronoun'
   },
-  to_have:{
-    word:'ak paś',
-    speech_part:'verb'
+  "to_have":{
+    "word":'ak paś',
+    "speech_part":'verb'
   },
-  name:{
-    word:'nām',
-    speech_part:'noun'
+  "name":{
+    "word":'nām',
+    "speech_part":'noun'
   },
-  age:{
-    word:'āŝ',
-    speech_part:'noun'
+  "age":{
+    "word":'āŝ',
+    "speech_part":'noun'
   },
-  to_be:{
-    word:'ak het',
-    speech_part:'verb'
+  "to_be":{
+    "word":'ak het',
+    "speech_part":'verb'
   },
-  how:{
-    word:'kamo',
-    speech_part:'adjective/adverb'
+  "how":{
+    "word":'kamo',
+    "speech_part":'adjective/adverb'
   },
 }
