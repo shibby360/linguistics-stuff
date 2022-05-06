@@ -13,5 +13,6 @@
 100: `t̂ret̀`
 Compound numbers are formed by saying/writing the number in the place value, then saying the place value. `a` does not need to be said unless it is the value in the ones place.  
 Examples:  
-123 = `t̂ret̀ āut net irt`.
+123 = `t̂ret̀ āut net irt`  
 4378 = `ruf tau irt t̂ret̀ nef́es net ći`
+15 = `net f́if`
