@@ -29,7 +29,7 @@ The only diacritics on consonants are acute accent, grave accent, and circumflex
 | Ś | «z» |
 | S̀ | «sh» |
 | Ŝ | «zh» |
-| Ŕ | This does not have any english equivalent. It is like the _tt_ in _bu**tt**er_, but trilled. |
+| Ŕ | This does not have any english equivalent. It is like the _tt_ in _bu**tt**er_, but trilled. IPA: ɽ, Hindi: ड़|
 
 Notice only consonants are shown, this becuase vowels are written seperately when writing the alphabet. Accent marks are also used on vowels as well.  
 **Vowels with accent marks shown here are not written in the alphabet!**
