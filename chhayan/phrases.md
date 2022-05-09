@@ -15,7 +15,7 @@ Word-for-word breakdown:
 + `āŝ`: age
 
 ## Greeting
-The phrase for "How are you?"(`Kamo het tu?`) literally translates to "How are you?".  
+The phrase for "How are you?"(`Het tu kamo?`) literally translates to "How are you?".  
 Hi/Hey is `Sālē`, only to be used with people you are familiar with.  
 Hello is `Ŝēnam`, which is to be used with people you are unfamiliar with.  
 Good morning is `Ṕom t̂āṕē!`
