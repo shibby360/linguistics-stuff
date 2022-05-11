@@ -37,6 +37,7 @@ Notice only consonants are shown, this becuase vowels are written seperately whe
 | --- | --- |
 | A a | c<ins>u</ins>t |
 | ā | f<ins>a</ins>r |
+| ă | p<ins>o</ins>t |
 | E e | p<ins>e</ins>t |
 | ē | f<ins>a</ins>te |
 | I i | f<ins>ee</ins>t |
