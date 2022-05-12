@@ -3,12 +3,12 @@ Adjectives do not copy case, however gender does get copied.
 Endings:
 | Masculine | Feminine | Neutral |
 | --- | --- | --- |
-| -s | -(t)a | -m |
+| -s | -a | -m |
 
 Example chart with `Ṕom`:
 | Masculine | Feminine | Neutral |
 | --- | --- | --- |
-| `Ṕos` | `Ṕota` | `Ṕom` |
+| `Ṕos` | `Ṕoa` | `Ṕom` |
 
 ## Practice
 Write all the forms of `Krāsm`(red).
