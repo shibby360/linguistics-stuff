@@ -1,6 +1,6 @@
 # Phrases
 In Chhayan, you *have* your name and age. Example:  
-`Ĭā paś S̀if́ānk nām.` = My name is Shivank.  
+`Ĭa paś S̀if́ānk nām.` = My name is Shivank.  
 Word-for-word breakdown:  
 + `Ĭā`: I
 + `paś`: have
@@ -8,7 +8,7 @@ Word-for-word breakdown:
 + `nām`: name
 
 Age is built the same way, but `āŝ` instead of `nām`.
-`Ĭā paś 14 āŝ.` = I am 14 years old.  
+`Ĭa paś 14 āŝ.` = I am 14 years old.  
 Word-for-word breakdown:  
 + `Ĭā`: I
 + `paś`: have
@@ -23,7 +23,7 @@ Good morning is `Ṕom t̂āṕē!`
 ## Pronouns
 | | One person | Two people |
 | --- | --- | --- |
-| 1st person | `Ĭā` | `Mu` |
+| 1st person | `Ĭa` | `Mu` |
 | 2nd person | `Tu` | `Tu` |
 | 3rd person | `On`(He)/`Ān`(She) | `Sē` |
 
