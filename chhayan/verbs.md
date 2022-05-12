@@ -27,5 +27,6 @@ These verbs stay the same, and use the stem of the verb after.
 ## Fērivērbs(Do verbs)
 `Fērivērbs`, which literally means "Do verbs", are verbs that combine a word with `āk fēri` to create a new verb.  
 In the infinitive, they come after the verb, but when `fēri` is conjugated, they come before the `fēri`.  
-Examples:
-`Ia het fēriḱani kharc.` = I am spending.
+Examples:  
+`Ĭa het kharc fēriḱani.` = I am spending.  
+`Ĭa khot āk fēri cit.` = I want to read.
