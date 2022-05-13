@@ -82,7 +82,7 @@
      "speech_part":"pronoun"
   },
   "to_have":{
-     "word":"ak paś",
+     "word":"āk paś",
      "speech_part":"verb"
   },
   "name":{
@@ -94,11 +94,31 @@
      "speech_part":"noun"
   },
   "to_be":{
-     "word":"ak het",
+     "word":"āk het",
      "speech_part":"verb"
   },
   "how":{
      "word":"kamo",
      "speech_part":"adjective/adverb"
+  },
+  "to_read":{
+     "word":"āk fēri cit",
+     "speech_part":"verb"
+  },
+  "to_do":{
+     "word":"āk fēri",
+     "speech_part":"verb"
+  },
+  "intense":{
+    "word":"intins",
+    "speech_part":"adjective"
+  },
+  "a lot":{
+    "word":"ocen",
+    "speech_part":"adverb"
+  },
+  "to_spend":{
+     "word":"āk fēri kharc",
+     "speech_part":"verb"
   }
 }
