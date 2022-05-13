@@ -321,5 +321,9 @@
   "do_verbs":{
     "word":"fērif́ērṕs",
     "speech_part":"verb"
+  },
+  "red":{
+    "word":"krāsm",
+    "speech_part":"adjective"
   }
 }
