@@ -266,7 +266,7 @@
   },
   "what":{
     "word":"kē",
-    "speech_part":"conjunction/pronoun"
+    "speech_part":"conjunction/pronoun/interjection"
   },
   "where":{
     "word":"kt́ē",
@@ -275,5 +275,51 @@
   "who":{
     "word":"ki",
     "speech_part":"pronoun"
+  },
+  "why":{
+    "word":"kĭun",
+    "speech_part":"adverb/noun/conjunction/interjection"
+  },
+  "when":{
+    "word":"kaṕ",
+    "speech_part":"adverb/conjunction/noun/pronoun",
+  },
+  "which":{
+    "word":"komśa",
+    "speech_part":"pronoun/determiner"
+  },
+  "here":{
+    "word":"śties",
+    "speech_part":"noun/adjective/adverb",
+    "gender":"masculine"
+  },
+  "hour":{
+    "word":"hur",
+    "speech_part":"noun",
+    "gender":"masculine"
+  },
+  "to_play":{
+    "word":"āk pil",
+    "speech_part":"verb"
+  },
+  "to_air_vent":{
+    "word":"āk ārf́ent",
+    "speech_part":"verb"
+  },
+  "to_jump_off_a_swing":{
+    "word":"āk ćŭinḱ",
+    "speech_part":"verb"
+  },
+  "should":{
+    "word":"śul",
+    "speech_part":"verb",
+  },
+  "to_want":{
+    "word":"āk khot",
+    "speech_part":"verb",
+  },
+  "do_verbs":{
+    "word":"fērif́ērṕs",
+    "speech_part":"verb"
   }
 }
