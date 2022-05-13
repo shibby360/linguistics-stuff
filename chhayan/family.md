@@ -1,3 +1,5 @@
 # Family
 Mother is `Mām`.  
-Father is `Pāp`.
+Father is `Pāp`.  
+Brother is `Prat`.  
+Sister is `Sur`.
