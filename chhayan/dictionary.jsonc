@@ -245,17 +245,14 @@
   "principal":{
     "word":"prinsiplē",
     "speech_part":"noun",
-    "gender":"unknown"
   },
   "president":{
-    "word":"Prieśit̂ent",
+    "word":"prieśit̂ent",
     "speech_part":"noun",
-    "gender":"unknown"
   },
   "student":{
     "word":"stut́ek",
     "speech_part":"noun",
-    "gender":"unknown"
   },
   "in":{
     "word":"nā",
@@ -351,9 +348,13 @@
     "word":"f́iolēm",
     "speech_part":"adjective/noun",
     "gender":"masculine"
-  }
+  },
   "can":{
     "word":"koŝē",
+    "speech_part":"verb"
+  },
+  "to_eat":{
+    "word":"āk māŝē",
     "speech_part":"verb"
   }
 }
