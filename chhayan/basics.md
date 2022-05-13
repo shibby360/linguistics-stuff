@@ -25,3 +25,8 @@ Examples:
 fimā(f-ee-m-aa) = girl  
 āknĭo(aa-k-n-y-o) = window  
 kāir(k-aa-ee-r) = car  
+
+## Yes and No
+`Hān` = Yes  
+`Ni` = No  
+`Non` = Not(in verb negation, this comes before the verb.
