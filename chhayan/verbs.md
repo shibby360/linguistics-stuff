@@ -24,8 +24,8 @@ to jump off a swing = `āk ćŭinḱ`
 ## Modal Verbs(can, should, etc.)
 These verbs stay the same, and use the stem of the verb after.  
 `Ĭa śul pil af́iek sē...` = I should play with them...
-## Fērivērṕs(Do verbs)
-`Fērivērṕs`, which literally means "Do verbs", are verbs that combine a word with `āk fēri` to create a new verb.  
+## Fērif́ērṕs(Do verbs)
+`Fērif́ērṕs`, which literally means "Do verbs", are verbs that combine a word with `āk fēri` to create a new verb.  
 In the infinitive, they come after the verb, but when `fēri` is conjugated, they come before the `fēri`.  
 Examples:  
 `Ĭa het kharc fēriḱani.` = I am spending.  
