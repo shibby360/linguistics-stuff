@@ -1,6 +1,6 @@
 # Basics
-Chhayan does not use articles, but the number one in place for english "a/an"(which is also "a").  
-It is declining, so that means nouns change based on where they are in the sentence.  
+Chhayan does not use articles, but the number one in place for english "a/an"(which is also "a"). It is optional, however. 
+Chhayan is declining, so that means nouns change based on where they are in the sentence.  
 These are the forms:  
 + **Nominative**: The dictionary form of a noun.
 + **Genitive**: Directly from Wikipedia: "shows generic relationship, generally ownership, but also composition, reference, description, etc."
