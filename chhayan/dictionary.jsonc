@@ -336,4 +336,20 @@
     "word":"ṕlam",
     "speech_part":"adjective/noun",
     "gender":"masculine"
+  },
+  "green":{
+    "word":"f́ērm",
+    "speech_part":"adjective/noun",
+    "gender":"masculine"
+  },
+  "orange":{
+    "word":"nārām",
+    "speech_part":"adjective/noun",
+    "gender":"masculine"
+  },
+  "purple":{
+    "word":"f́iolēm",
+    "speech_part":"adjective/noun",
+    "gender":"masculine"
+  }
 }
