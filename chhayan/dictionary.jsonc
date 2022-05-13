@@ -324,6 +324,16 @@
   },
   "red":{
     "word":"krāsm",
-    "speech_part":"adjective"
-  }
+    "speech_part":"adjective/noun",
+    "gender":"masculine"
+  },
+  "yellow":{
+    "word":"pilām",
+    "speech_part":"adjective/noun",
+    "gender":"masculine"
+  },
+  "blue":{
+    "word":"ṕlam",
+    "speech_part":"adjective/noun",
+    "gender":"masculine"
 }
