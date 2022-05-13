@@ -25,7 +25,7 @@ Good morning is `Ṕom t̂āṕē!`
 | --- | --- | --- |
 | 1st person | `Ĭa` | `Mu` |
 | 2nd person | `Tu` | `Tu` |
-| 3rd person | `On`(He)/`Ān`(She) | `Sē` |
+| 3rd person | `On`(He)/`Ān`(She)/`Ēn`(It) | `Sē` |
 
 ## Useful Words
 Thank you is `Spasipo`.  
