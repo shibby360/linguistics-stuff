@@ -380,5 +380,40 @@
   "so":{
     "word":"co",
     "speech_part":"conjunction"
+  },
+  "anything":{
+    "word":"init̀iḱ",
+    "speech_part":"noun"
+  },
+  "everything":{
+    "word":"f́sĭo",
+    "speech_part":"noun",
+    "alt_ch_en":[
+      "all"
+    ]
+  },
+  "nothing":{
+    "word":"niceḱo",
+    "speech_part":"noun"
+  },
+  "library":{
+    "word":"liṕ",
+    "speech_part":"noun",
+    "gender":"masculine"
+  },
+  "store":{
+    "word":"stĭora",
+    "speech_part":"noun",
+    "gender":"feminine"
+  },
+  "gym":{
+    "word":"ŝim",
+    "speech_part":"noun",
+    "gender":"feminine"
+  },
+  "school":{
+    "word":"s̀kolā",
+    "speech_part":"noun",
+    "gender":"feminine"
   }
 }
