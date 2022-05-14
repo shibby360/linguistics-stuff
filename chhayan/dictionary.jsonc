@@ -356,5 +356,29 @@
   "to_eat":{
     "word":"āk māŝē",
     "speech_part":"verb"
+  },
+  "and":{
+    "word":"i",
+    "speech_part":"conjunction"
+  },
+  "but":{
+    "word":"mē",
+    "speech_part":"conjunction"
+  },
+  "for":{
+    "word":"pur",
+    "speech_part":"conjunction"
+  },
+  "nor":{
+    "word":"nor",
+    "speech_part":"conjunction"
+  },
+  "yet":{
+    "word":"ŭantla",
+    "speech_part":"conjunction"
+  },
+  "so":{
+    "word":"co",
+    "speech_part":"conjunction"
   }
 }
