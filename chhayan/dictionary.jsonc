@@ -141,7 +141,7 @@
   "mother":{
     "word":"māma",
     "speech_part":"noun",
-    "gender":"feminine",
+    "gender":"feminine"
   },
   "father":{
     "word":"pāp",
@@ -244,15 +244,15 @@
   },
   "principal":{
     "word":"prinsiplē",
-    "speech_part":"noun",
+    "speech_part":"noun"
   },
   "president":{
     "word":"prieśit̂ent",
-    "speech_part":"noun",
+    "speech_part":"noun"
   },
   "student":{
     "word":"stut́ek",
-    "speech_part":"noun",
+    "speech_part":"noun"
   },
   "in":{
     "word":"nā",
@@ -279,7 +279,7 @@
   },
   "when":{
     "word":"kaṕ",
-    "speech_part":"adverb/conjunction/noun/pronoun",
+    "speech_part":"adverb/conjunction/noun/pronoun"
   },
   "which":{
     "word":"komśa",
@@ -309,11 +309,11 @@
   },
   "should":{
     "word":"śul",
-    "speech_part":"verb",
+    "speech_part":"verb"
   },
   "to_want":{
     "word":"āk khot",
-    "speech_part":"verb",
+    "speech_part":"verb"
   },
   "do_verbs":{
     "word":"fērif́ērṕs",
