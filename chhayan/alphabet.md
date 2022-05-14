@@ -45,6 +45,7 @@ Notice only consonants are shown, this becuase vowels are written seperately whe
 | O o | s<ins>oa</ins>p |
 | U u | m<ins>oo</ins>n |
 | ŭ | <ins>w</ins>ar |
+
 "a" and "e" became the r-colored before "r"(er/ur/ir). 
 
 ## Practice
