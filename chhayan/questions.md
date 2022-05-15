@@ -12,3 +12,9 @@ Other question words are:
 `Kamo` = How  
 `Komśa` = Which  
 All these words decline as needed in a sentence. "Whose" shows possesion, so "Who" is in the Genitive for "Whose".
+
+## Practice
+<details><summary>Identify the mistake in this section!</summary>
+  Fēri tu kē? = What do you do?  
+  Fēriḱani tu kē? = What are you doing?  
+</details>
