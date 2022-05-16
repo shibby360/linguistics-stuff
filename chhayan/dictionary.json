@@ -450,5 +450,9 @@
   "to_go":{
     "word":"āk ālē",
     "speech_part":"verb"
+  },
+  "to_bring":{
+    "word":"āk f́riḱ",
+    "speech_part":"verb"
   }
 }
