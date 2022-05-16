@@ -425,12 +425,30 @@
     "speech_part":"noun",
     "gender":"neutral"
   },
-  "firē":{
+  "firēm":{
     "word":"firy",
     "speech_part":"adjective"
   },
   "to":{
     "word":"ā",
     "speech_part":"preposition"
+  },
+  "hot":{
+    "word":"ḱarom",
+    "speech_part":"adjective"
+  },
+  "door":{
+    "word":"t́oro",
+    "speech_part":"noun",
+    "gender":"neutral"
+  },
+  "house":{
+    "word":"t́om",
+    "speech_part":"noun",
+    "gender":"masculine"
+  },
+  "to_go":{
+    "word":"āk ālē",
+    "speech_part":"verb"
   }
 }
