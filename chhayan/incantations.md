@@ -11,7 +11,7 @@ Uf purtalo!
 
 _Send someone to hell._
 ```
-Uf t́oro ā tos t́om,
+Uf t́oro ā tos t́omo,
 Firēm i ḱarom,
 Ā hālo tu het ālēḱani!
 ```
