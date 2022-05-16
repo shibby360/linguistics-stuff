@@ -19,5 +19,7 @@ Ā hālo, tu het ālēḱani!
 ## Death chant
 _Everyone who comes in contact with you in the next 5 minutes dies, but you do too after 5 minutes._
 ```
-Ĭa het f́riḱḱani măt̀(death)
+Ĭa het f́riḱḱani măt̀u.
+Tākēr f́if minutē măt̀u!
+Mārnā!
 ```
