@@ -477,5 +477,13 @@
   "to_die":{
     "word":"āk mārnā",
     "speech_part":"verb"
+  },
+  "to_think":{
+     "word":"āk tinkra",
+     "speech_part":"verb"
+  },
+  "to_wish":{
+     "word":"āk fica",
+     "speech_part":"verb"
   }
 }
