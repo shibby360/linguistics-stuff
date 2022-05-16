@@ -415,5 +415,22 @@
     "word":"s̀kolā",
     "speech_part":"noun",
     "gender":"feminine"
+  },
+  "to_open":{
+    "word":"āk uf",
+    "speech_part":"verb"
+  },
+  "portal":{
+    "word":"purtalo",
+    "speech_part":"noun",
+    "gender":"neutral"
+  },
+  "firē":{
+    "word":"firy",
+    "speech_part":"adjective"
+  },
+  "to":{
+    "word":"ā",
+    "speech_part":"preposition"
   }
 }
