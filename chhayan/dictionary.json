@@ -489,5 +489,14 @@
   "to_know":{
     "word":"āk śnāt",
     "speech_part":"verb"
+  },
+  "may":{
+    "word":"pŭiś",
+    "speech_part":"verb"
+  },
+  "soul":{
+    "word":"s̀ul",
+    "speech_part":"noun",
+    "gender":"masculine"
   }
 }
