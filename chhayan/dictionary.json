@@ -485,5 +485,9 @@
   "to_wish":{
      "word":"āk fica",
      "speech_part":"verb"
+  },
+  "to_know":{
+    "word":"āk śnāt",
+    "speech_part":"verb"
   }
 }
