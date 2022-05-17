@@ -21,5 +21,13 @@ _Everyone who comes in contact with you in the next 5 minutes dies, but you do t
 ```
 Ĭa het f́riḱḱani măt̀u.
 Tākēr f́if minutē măt̀u!
-Mārnā!
+Mārnā!(x5)
+```
+
+## Soul bind
+_Bind you and someobody else's soul._
+```
+Pŭiś naśoi s̀uls het tuḱet̀ēr!
+Ālē tuḱet̀ēr.
+F́sĭo tuḱet̀ēr!
 ```
