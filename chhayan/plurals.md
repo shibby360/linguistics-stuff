@@ -2,15 +2,13 @@
 The plural conversion charts are shown below:
 | Nominative | Plural |
 | --- | --- |
-| -k | -ṕ |
-| -f | -c |
-| -t́ | -r |
+| -a/ā | -u |
 | anything else | **_add_** s |
 
 For Genitive, **_add_** m.
 
 | Accusative | Plural |
 | --- | --- |
-| -m | -n |
-| -ć | -c |
-| -s | -f́ |
+| -ā | -i |
+| -i | -o |
+| anything else | **_add_** s |
