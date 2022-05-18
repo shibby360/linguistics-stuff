@@ -5,14 +5,14 @@ _Ignore this if you don't know about [spirits](https://docs.google.com/document/
 _Open a portal to hell._
 ```
 Uf purtalo ā hālo.
-Firēm i ḱarom,
+Firēs i ḱaros,
 Uf purtalo!
 ```
 
 _Send someone to hell._
 ```
-Uf t́oro ā tos t́om,
-Firēm i ḱarom,
+Uf t́oro ā tos t́omo,
+Firēs i ḱaros,
 Ā hālo, tu het ālēḱani!
 ```
 
