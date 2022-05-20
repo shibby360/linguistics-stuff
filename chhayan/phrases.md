@@ -2,7 +2,7 @@
 In Chhayan, you *have* your name and age. Example:  
 `Ĭa paś S̀if́ānk nām.` = My name is Shivank.  
 Word-for-word breakdown:  
-+ `Ĭā`: I
++ `Ĭa`: I
 + `paś`: have
 + `S̀if́ānk`: Shivank
 + `nām`: name
@@ -10,7 +10,7 @@ Word-for-word breakdown:
 Age is built the same way, but `āŝ` instead of `nām`.
 `Ĭa paś 14 āŝ.` = I am 14 years old.  
 Word-for-word breakdown:  
-+ `Ĭā`: I
++ `Ĭa`: I
 + `paś`: have
 + `āŝ`: age
 
