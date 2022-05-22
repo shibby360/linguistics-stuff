@@ -6,7 +6,7 @@ Examples:
 `Het tu fēriḱani kē?` = What are you doing?  
 Other question words are:  
 `Kt́ē` = Where  
-`Ki` = Who  
+`Kf́āro` = Who  
 `Kĭun` = Why   
 `Kaṕ` = When  
 `Kamo` = How  
