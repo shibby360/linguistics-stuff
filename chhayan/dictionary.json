@@ -505,6 +505,14 @@
   },
   "anger":{
     "word":"ānḱrima",
-    "speech_part":"noun/verb"
+    "speech_part":"noun"
+  },
+  "to_love":{
+    "word":"āk lĭuṕit",
+    "speech_part":"verb"
+  },
+  "to_like":{
+    "word":"āk nrāik",
+    "speech_part":"verb"
   }
 }
