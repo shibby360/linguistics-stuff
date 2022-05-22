@@ -46,7 +46,8 @@ Notice only consonants are shown, this becuase vowels are written seperately whe
 | U u | m<ins>oo</ins>n |
 | ŭ | <ins>w</ins>ar |
 
-"a" and "e" became the r-colored before "r"(er/ur/ir). 
+"a" and "e" become r-colored before "r"(er/ur/ir).  
+"N" becomes the velar nasal before "k" and "ḱ".
 
 ## Practice
 Pronounce these words:  
