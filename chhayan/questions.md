@@ -11,4 +11,5 @@ Other question words are:
 `Kaṕ` = When  
 `Kamo` = How  
 `Komśa` = Which  
-All these words decline as needed in a sentence. "Whose" shows possesion, so "Who" is in the Genitive for "Whose".
+"Whose" shows possesion, so `Kf́āro` is in the Genitive for "Whose".  
+In Chhayan, there is no "Whom", it is just `Kf́āro`.
