@@ -519,5 +519,14 @@
     "word":"muŝ",
     "speech_part":"noun",
     "gender":"masculine"
+  },
+  "to_see":{
+    "word":"āk fēri f́it́",
+    "speech_part":"verb",
+  },
+  "woman":{
+    "word":"s̀ens̀ca",
+    "speech_part":"noun",
+    "gender":"feminine"
   }
 }
