@@ -11,13 +11,13 @@ Here are the conversion charts(from Nominative)
 | --- | --- | --- |
 | -a/-ā | -i | fimā => fimi |
 | -o/-ē | -u | āknĭo => āknĭu |
-| zero ending(consonant), -i/-u | -o | kāir => kāiro |
+| zero ending(consonant) | -o | kāir => kāiro |
 
 | Nominative | Accusative | Example |
 | --- | --- | --- |
 | -a | -i | ŭāta => ŭāti |
 | -o/-ē | -ā | āknĭo => āknĭā |
-| zero ending(consonant), -i/-u | -u | kāir => kāiru |
+| zero ending(consonant) | -u | kāir => kāiru |
 
 ## Pronunciation
 Every letter is pronounced by itself.  
