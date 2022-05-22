@@ -1,10 +1,10 @@
 # Phrases
 In Chhayan, you *have* your name and age. Example:  
-`Ĭa paś S̀if́ānk nām.` = My name is Shivank.  
+`Ĭa paś S̀if́ănk nām.` = My name is Shivank.  
 Word-for-word breakdown:  
 + `Ĭa`: I
 + `paś`: have
-+ `S̀if́ānk`: Shivank
++ `S̀if́ănk`: Shivank
 + `nām`: name
 
 Age is built the same way, but `āŝ` instead of `nām`.
