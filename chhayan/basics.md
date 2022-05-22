@@ -16,7 +16,7 @@ Here are the conversion charts(from Nominative)
 | Nominative | Accusative | Example |
 | --- | --- | --- |
 | -a | -i | ŭāta => ŭāti |
-| -o/-ē | -ā | āknio => ākniā |
+| -o/-ē | -ā | āknĭo => āknĭā |
 | zero ending(consonant), -i/-u | -u | kāir => kāiru |
 
 ## Pronunciation
