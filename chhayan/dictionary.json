@@ -528,5 +528,33 @@
     "word":"s̀ens̀ca",
     "speech_part":"noun",
     "gender":"feminine"
+  },
+  "america":{
+    "word":"amerik",
+    "speech_part":"noun"
+  },
+  "japan":{
+    "word":"ćapon",
+    "speech_part":"noun"
+  },
+  "england":{
+    "word":"ānḱlē",
+    "speech_part":"noun"
+  },
+  "france":{
+    "word":"friānk",
+    "speech_part":"noun"
+  },
+  "germany":{
+    "word":"ŝiērmāl",
+    "speech_part":"noun"
+  },
+  "india":{
+    "word":"int́i",
+    "speech_part":"noun"
+  },
+  "canada":{
+    "word":"kanāt́",
+    "speech_part":"noun"
   }
 }
