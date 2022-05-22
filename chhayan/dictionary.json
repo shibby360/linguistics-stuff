@@ -514,5 +514,10 @@
   "to_like":{
     "word":"āk nrāik",
     "speech_part":"verb"
+  },
+  "man":{
+    "word":"muŝ",
+    "speech_part":"noun",
+    "gender":"masculine"
   }
 }
