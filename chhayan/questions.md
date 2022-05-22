@@ -1,5 +1,5 @@
 # Questions
-Yes/No questions are formed by flipping the subject and the verb.  
+Questions are formed by flipping the subject and the verb.  
 Open-ended questions' interrogative expression comes at the end of a question.  
 Examples:  
 `Het tu ṕos?` = Are you OK?(to a male)  
