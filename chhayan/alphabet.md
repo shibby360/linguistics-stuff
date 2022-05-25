@@ -1,5 +1,6 @@
 # Alphabet
-The Chhayan alphabet is similar to the Latin alphabet, but it is reordered and some letters are eliminated. Letters do not have names.  
+The Chhayan alphabet is similar to the Latin alphabet, but it is reordered and some letters are eliminated.  
+For consonant sounds that can be held indefinitely, the name is created by adding "e"(as in "pet") to the beginning of it. For plosives, the sound is created by adding "ay"(as in "pay") to the end.  
 It goes like this:
 | Letter | Sound(english) |
 | --- | --- |
@@ -12,7 +13,6 @@ It goes like this:
 | H h | «h» |
 | R R | «r» |
 | L l | «l» |
-| V v | «v» |
 | M m | «m» |
 | N n | «n» |
 
@@ -31,7 +31,7 @@ The only diacritics on consonants are acute accent, grave accent, and circumflex
 | Ŝ | «zh» |
 | Ŕ | This does not have any english equivalent. It is like the _tt_ in _bu**tt**er_, but trilled. IPA: ɽ, Hindi: ड़|
 
-Notice only consonants are shown, this becuase vowels are written seperately when writing the alphabet. Accent marks are also used on vowels as well.  
+Notice only consonants are shown, this becuase vowels are written seperately when writing the alphabet. Accent marks are also used on vowels as well. The name of a vowel is simply its sound.   
 **Vowels with accent marks shown here are not written in the alphabet!**
 | Vowel | Sound(english) |
 | --- | --- |
