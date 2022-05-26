@@ -556,5 +556,14 @@
   "canada":{
     "word":"kanāt́",
     "speech_part":"noun"
+  },
+  "cupcake":{
+    "word":"kupklakā",
+    "speech_part":"noun",
+    "gender":"feminine"
+  },
+  "to_make":{
+    "word":"āk ferār",
+    "speech_part":"verb"
   }
 }
