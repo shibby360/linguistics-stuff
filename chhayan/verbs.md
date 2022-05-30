@@ -31,6 +31,6 @@ Examples:
 `Ĭa het kharc fēriḱani.` = I am spending.  
 `Ĭa khot āk fēri cit.` = I want to read.
 ## Reflexive
-The reflexive pronoun is the same for all subjects, it is always "sĭa".
-Examples:
+The reflexive pronoun is the same for all subjects, it is always "sĭa".  
+Examples:  
 `Ĭa sĭa mat̂ātŭās.` = I helped myself.
