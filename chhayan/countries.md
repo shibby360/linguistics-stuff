@@ -21,3 +21,8 @@ The stems are listed in the dictionary.
 + `Panŝāf́i`(Punjabi)
 + `Ḱućurati`(Gujrati)
 + `Mālĭām`(Malayalam)
+
+## I am of someplace
+To say you are from somewhere, you say "I am of ...".  
+Example:  
+`Ĭa het Ćāpont̂ēs̀o.` = I am from Japan.  
