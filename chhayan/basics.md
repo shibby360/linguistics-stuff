@@ -3,7 +3,8 @@ Chhayan does not use articles, but the number one in place for english "a/an"(wh
 Chhayan is declining, so that means nouns change based on where they are in the sentence.  
 These are the forms:  
 + **Nominative**: The dictionary form of a noun.
-+ **Genitive**: Directly from Wikipedia: "shows generic relationship, generally ownership, but also composition, reference, description, etc."
++ **Genitive**: Directly from Wikipedia: "shows generic relationship, generally ownership, but also composition, reference, description, etc."  
+The Genitive can be thought of as "of-(noun)", however it is also allowed to be reordered to be though of as "(noun)'s".
 + **Accusative**: The _direct_ object of a verb.
 
 Here are the conversion charts(from Nominative)
