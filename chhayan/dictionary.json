@@ -569,5 +569,10 @@
   "to_spill":{
     "word":"āk t̂irāl",
     "speech_part":"verb"
-  }
+  },
+  "tube":{
+    "word":"tuṕē",
+    "speech_part":"noun",
+    "gender":"neutral"
+  },
 }
