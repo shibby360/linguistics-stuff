@@ -30,5 +30,12 @@ Good morning is `Ṕom t̂āṕē!`
 ## Useful Words
 Thank you is `Spasipo`.  
 Afternoon is `Ten`.  
-EVening is `Āt́ap`.  
-Night is `Noci`.
+Evening is `Āt́ap`.  
+Night is `Noci`.  
+Please is `Ṕās̀usta`.
+
+## Shortening
+When writing pronouns with "het", and the pronoun ends with a vowel, you can shorten it to one word and remove the last letter of the pronoun and the "h" in "het".  
+Example:  
+`Ĭet` = I am  
+You can also remove the "het" entirely, it is optional. Neither of these are used in this course, yet prefectly valid in the language.
