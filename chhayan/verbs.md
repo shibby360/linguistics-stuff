@@ -1,8 +1,8 @@
 # Verbs
 There are no irregular verbs.  
-All verbs are the same in each form.  
+All verbs are the same in each form. However, you have a choice shown below.   
 Example verb chart for āk het(to be):
-| | One person | Two people |
+| | One person | Plural |
 | --- | --- | --- |
 | 1st person | het | het |
 | 2nd person | het | het |
@@ -34,3 +34,12 @@ Examples:
 The reflexive pronoun is the same for all subjects, it is always "sĭa".  
 Examples:  
 `Ĭa sĭa mat̂ātŭās.` = I helped myself.
+## Choice - subject or no subject?
+You have a choice on whether or not you want to include the subject, however, when the subject is not present, there are seperate verb endings.
+| | One person | Plural |
+| --- | --- | --- |
+| 1st person | -ē | -onē |
+| 2nd person | -s | -ons |
+| 3rd person | -ēs | -onēs |
+
+If it is obvious who you are talking about, then you do not need to add the ending. For fērif́ērṕs, the fēri gets conjugated.
