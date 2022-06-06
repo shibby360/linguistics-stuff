@@ -39,7 +39,7 @@ You have a choice on whether or not you want to include the subject, however, wh
 | | One person | Plural |
 | --- | --- | --- |
 | 1st person | -ē | -onē |
-| 2nd person | -s | -ons |
-| 3rd person | -ēs | -onēs |
+| 2nd person | -ā | -onā |
+| 3rd person | -ēā | -onēā |
 
 If it is obvious who you are talking about, then you do not need to add the ending. For fērif́ērṕs, the fēri gets conjugated.
