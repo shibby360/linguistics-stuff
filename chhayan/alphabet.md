@@ -49,6 +49,9 @@ Notice only consonants are shown, this becuase vowels are written seperately whe
 "a" and "e" become r-colored before "r"(er/ur/ir).  
 "N" becomes the velar nasal before "k" and "ḱ".
 
+## Āpat̀rofē
+The `āpat̀rofē`(apostrophe) after an i makes it a short i sound, and after u makes it an "uh" with rounded lips.
+
 ## Practice
 Pronounce these words:  
 t̂āṕē <details><summary>Click to see pronunciation</summary>«dh-aa-b-ay»</details>  
