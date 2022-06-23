@@ -50,7 +50,7 @@ Notice only consonants are shown, this becuase vowels are written seperately whe
 "N" becomes the velar nasal before "k" and "ḱ".
 
 ## Āpat̀rofē
-The `āpat̀rofē`(apostrophe) after an i makes it a short i sound, and after u makes it an "uh" with rounded lips.
+The `āpat̀rofē`(apostrophe) after an i makes it a short i sound, and after u makes it an "uh" with rounded lips. They both become r-colored before r.
 
 ## Practice
 Pronounce these words:  
