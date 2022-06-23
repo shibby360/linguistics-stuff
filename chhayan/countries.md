@@ -1,6 +1,6 @@
 # Countries
 All country names end with "-t̂ēs̀".  
-The language of that country is the same, but "t̂ēs̀" replaced with "ski".  
+The language of that country is the same, but "t̂ēs̀" replaced with "skum".  
 That is also the nationality of the country.  
 Some country **stems** are:
 + `Amerik`(America)
