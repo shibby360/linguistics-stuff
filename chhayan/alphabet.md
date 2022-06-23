@@ -1,6 +1,6 @@
 # Alphabet
 The Chhayan alphabet is similar to the Latin alphabet, but it is reordered and some letters are eliminated.  
-For consonant sounds that can be held indefinitely, the name is created by adding "e"(as in "pet") to the beginning of it. For plosives, the sound is created by adding "ay"(as in "pay") to the end.  
+For consonant sounds that can be held indefinitely, the name is created by adding "e"(as in "pet") to the beginning of it. For plosives, the sound is created by adding "ay"(as in "pay") to the end. "H" also takes "ay".  
 It goes like this:
 | Letter | Sound(english) |
 | --- | --- |
