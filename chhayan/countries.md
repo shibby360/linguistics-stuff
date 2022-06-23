@@ -7,9 +7,10 @@ Some country **stems** are:
 + `Ćāpon`(Japan)
 + `Ānḱlē`(England)
 + `Friānk`(France)
-+ `Ŝiērmāl`(Germany)
++ `Namets`(Germany)
 + `Int́i`(India)
 + `Kanāt́`(Canada)
++ `S̀ŭiśār`(Switzerland)
 
 The stems are listed in the dictionary.
 
