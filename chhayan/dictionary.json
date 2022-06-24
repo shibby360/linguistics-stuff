@@ -583,5 +583,34 @@
   "switzerland":{
     "word":"S̀ŭiśār",
     "speech_part":"noun"
+  },
+  "leash":{
+    "word":"lit̀ri'kto",
+    "speech_part":"noun",
+    "gender":"neuter"
+  },
+  "dose":{
+    "word":"ḱāios",
+    "speech_part":"noun/verb",
+    "gender":"masculine",
+    "alt_ch_en":[
+      "to_dose"
+    ]
+  },
+  "to_cheat":{
+    "word":"s̀it̀ria",
+    "speech_part":"verb"
+  },
+  "to_insure":{
+    "word":"i'ns̀ĭur",
+    "speech_part":"verb"
+  },
+  "wood":{
+    "word":"tĭāmṕer",
+    "speech_part":"noun",
+    "gender":"masculine",
+    "alt_ch_en":[
+      "timber"
+    ]
   }
 }
