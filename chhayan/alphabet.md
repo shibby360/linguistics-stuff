@@ -40,6 +40,7 @@ Notice only consonants are shown, this becuase vowels are written seperately whe
 | ă | p<ins>o</ins>t |
 | E e | p<ins>e</ins>t |
 | ē | f<ins>a</ins>te |
+| è | c<ins>a</ins>t
 | I i | f<ins>ee</ins>t |
 | ĭ | <ins>y</ins>ak |
 | O o | s<ins>oa</ins>p |
