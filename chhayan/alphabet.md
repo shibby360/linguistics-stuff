@@ -5,6 +5,8 @@ It goes like this:
 | Letter | Sound(english) |
 | --- | --- |
 | K k | «k» |
+| X x | Scottish english's lo<ins>ch</ins>, a.k.a unvoiced velar fricative. |
+| Q q | Uvular k. |
 | C c | «ch» |
 | T t | «t» |
 | P p | «p» |
@@ -20,6 +22,8 @@ The only diacritics on consonants are acute accent, grave accent, and circumflex
 | Accent | Use |
 | --- | --- |
 | Ḱ | «g» |
+| X́ | voiced velar fricative |
+| Q́ | Uvular g |
 | Ć | «j» |
 | T́ | «d» |
 | T̀ | «th» |
