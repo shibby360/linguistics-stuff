@@ -16,7 +16,7 @@ It goes like this:
 | R R | «r» |
 | L l | «l» |
 | M m | «m» |
-| N n | «n» |
+| N n | «ny», palatal nasal |
 
 The only diacritics on consonants are acute accent, grave accent, and circumflex accent, with their uses shown below.
 | Accent | Use |
