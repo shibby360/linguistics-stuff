@@ -52,7 +52,8 @@ Notice only consonants are shown, this becuase vowels are written seperately whe
 | ŭ | <ins>w</ins>ar |
 
 "a" and "e" become r-colored before "r"(er/ur/ir).  
-"N" becomes the velar nasal before "k" and "ḱ".
+"N" becomes the velar nasal before "k" and "ḱ".  
+"J" and "V" are variants of "I" and "U", respectively, meaning they can be used interchangeably.
 
 ## Āpat̀rofē
 The `āpat̀rofē`(apostrophe) after an i makes it a short i sound, and after u makes it an "uh" with rounded lips. They both become r-colored before r.
