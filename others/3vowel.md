@@ -36,7 +36,7 @@
 | a&#x0361;u | f<ins>o</ins>e |
 | a&#x035D;u | p<ins>o</ins>t |
 
-Examples:
-Fight => Fait
-Care => Ka&#x0361;ir
-Fakes => Fa&#x0361;iks
+Examples:  
+Fight => Fait  
+Care => Ka&#x0361;ir  
+Fakes => Fa&#x0361;iks  
