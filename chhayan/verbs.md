@@ -1,6 +1,6 @@
 # Verbs
 There are no irregular verbs.  
-All verbs are the same in each form. However, you have a choice shown below.   
+All verbs are the same in each form. However, there are times when you will need verb endings.   
 Example verb chart for āk het(to be):
 | | One person | Plural |
 | --- | --- | --- |
@@ -8,8 +8,8 @@ Example verb chart for āk het(to be):
 | 2nd person | het | het |
 | 3rd person | het | het |
 
-So, verbs are pretty simple.  
 Imperative and subjunctive are the stem.  
+When suggesting something(let's), use -son.
 Gerunds are formed via -ḱani.  
 `Ĭa het pilḱani` = I am playing.
 ## Past tense
