@@ -21,11 +21,13 @@ Hello is `Ŝēnam`, which is to be used with people you are unfamiliar with.
 Good morning is `Ṕom t̂āṕē!`
 
 ## Pronouns
-| | One person | Two people |
+| | One person | Plural |
 | --- | --- | --- |
 | 1st person | `Ĭa` | `Mu` |
-| 2nd person | `Tu` | `Tu` |
+| 2nd person | `Tu`/`Vitu` | `Vu`/`Tivu` |
 | 3rd person | `On`(He)/`Ān`(She)/`Ēn`(It) | `Sē` |
+
+The second "you"s are used formally.
 
 ## Useful Words
 Thank you is `Spasipo`.  
