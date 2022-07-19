@@ -63,7 +63,12 @@
   },
   "you":{
      "word":"tu",
-     "speech_part":"pronoun"
+     "speech_part":"pronoun",
+    "alt_en_ch":[
+      "vu",
+      "tivu",
+      "vitu
+    ]
   },
   "he":{
      "word":"on",
