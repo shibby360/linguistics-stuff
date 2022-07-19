@@ -22,3 +22,4 @@ Follow them in this order:
 + [There is](https://github.com/shibby360/new-lang/blob/main/chhayan/there-is.md)
 + [Questions](https://github.com/shibby360/new-lang/blob/main/chhayan/questions.md)
 + [Countries](https://github.com/shibby360/new-lang/blob/main/chhayan/countries.md)
++ [Slang](https://github.com/shibby360/new-lang/blob/main/chhayan/slang.md)
