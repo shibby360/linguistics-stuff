@@ -24,7 +24,7 @@ Good morning is `Ṕom t̂āṕē!`
 | | One person | Plural |
 | --- | --- | --- |
 | 1st person | `Ĭa` | `Mu` |
-| 2nd person | `Tu`/`Vitu` | `Vu`/`Tivu` |
+| 2nd person | `Tu`/`Tif́u` | `F́u`/`F́itu` |
 | 3rd person | `On`(He)/`Ān`(She)/`Ēn`(It) | `Sē` |
 
 The second "you"s are used formally.
