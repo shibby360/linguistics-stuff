@@ -280,7 +280,7 @@
   },
   "why":{
     "word":"kĭun",
-    "speech_part":"adverb/noun/conjunction/interjection"
+    "speech_part":"adverb/conjunction/interjection"
   },
   "when":{
     "word":"kaṕ",
@@ -288,11 +288,11 @@
   },
   "which":{
     "word":"komśa",
-    "speech_part":"pronoun/determiner"
+    "speech_part":"pronoun"
   },
   "here":{
     "word":"śties",
-    "speech_part":"noun/adjective/adverb",
+    "speech_part":"adjective/adverb",
     "gender":"masculine"
   },
   "hour":{
