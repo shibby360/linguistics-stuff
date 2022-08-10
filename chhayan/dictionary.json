@@ -603,11 +603,11 @@
     ]
   },
   "to_cheat":{
-    "word":"s̀it̀ria",
+    "word":"āk s̀it̀ria",
     "speech_part":"verb"
   },
   "to_insure":{
-    "word":"i'ns̀ĭur",
+    "word":"āk i'ns̀ĭur",
     "speech_part":"verb"
   },
   "wood":{
@@ -617,5 +617,12 @@
     "alt_ch_en":[
       "timber"
     ]
-  }
+  },
+  "today":{
+    "word":"ḱal",
+    "speech_part":"adverb",
+    "alt_ch_en":[
+      "yesterday"
+    ]
+  },
 }
