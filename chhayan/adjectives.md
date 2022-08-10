@@ -1,5 +1,5 @@
 # Adjectives
-Adjectives do not copy case, however gender and number does get copied.  
+Adjectives follow the same rules for case, however gender and number does get copied.  
 Endings:
 | Masculine | Feminine | Neutral | Plural |
 | --- | --- | --- | --- |
