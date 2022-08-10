@@ -15,7 +15,7 @@ Some country **stems** are:
 The stems are listed in the dictionary.
 
 `Int́i` is a bit irregular. The country name is normal, however, since India does not have one language that the entire country speaks(maybe Hindi though), there are names for each of the languages spoken. Here are a few:
-+ `Int́iski`(Hindi)
++ `Int́iskum`(Hindi)
 + `Tiliḱu`(Telegu)
 + `T̀āmil`(Tamil)
 + `Merāthi`(Marathi)
