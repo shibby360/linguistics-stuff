@@ -625,4 +625,16 @@
       "yesterday"
     ]
   },
+  "on":{
+    "word":"u'nt́o",
+    "speech_part":"preposition"
+  },
+  "at":{
+    "word":"f́",
+    "speech_part":"preposition"
+  },
+  "about":{
+    "word":"oṕa",
+    "speech_part":"preposition"
+  }
 }
