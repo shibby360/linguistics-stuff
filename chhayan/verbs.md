@@ -9,7 +9,10 @@ Example verb chart for āk het(to be):
 | 3rd person | het | het |
 
 Imperative and subjunctive are the stem.  
-When suggesting something(let's), use -son.
+When suggesting something(let's), use -son.  
+When suggesting something(let me), use -aĭē.  
+Let him/her are almost the same, -pus(ā). Add the ā if it is "let her".  
+Let them is -ruć.  
 Gerunds are formed via -ḱani.  
 `Ĭa het pilḱani` = I am playing.
 ## Past tense
@@ -40,7 +43,7 @@ You have a choice on whether or not you want to include the subject, however, wh
 | | One person | Plural |
 | --- | --- | --- |
 | 1st person | -ē | -onē |
-| 2nd person | -ā | -ā |
+| 2nd person | -ā | -onā |
 | 3rd person | -ēā | -onēā |
 
 If it is obvious who you are talking about, then you do not need to add the ending. For fērif́ērṕs, the fēri gets conjugated.
