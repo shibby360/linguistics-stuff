@@ -46,4 +46,5 @@ You have a choice on whether or not you want to include the subject, however, wh
 | 2nd person | -ā | -onā |
 | 3rd person | -ēā | -onēā |
 
+To formalize the you's, add a -si.
 If it is obvious who you are talking about, then you do not need to add the ending. For fērif́ērṕs, the fēri gets conjugated.
