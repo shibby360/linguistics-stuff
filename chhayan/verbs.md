@@ -13,8 +13,9 @@ When suggesting something(let's), use -son.
 Gerunds are formed via -ḱani.  
 `Ĭa het pilḱani` = I am playing.
 ## Past tense
-To put a verb in past tense, add -ŭās to the end.  
-`Ĭa pilŭās` = I played.
+To put a verb in past tense, add -ŭā(m/s/ā/i) to the end.  
+`Ĭa pilŭās` = I played(as a male).  
+The ending depends on the gender/number of the subject, and follows and adjectival pattern.
 ## Future tense
 Future tense is created by -f́iā.  
 `Ĭa pilf́iā` = I will play.
