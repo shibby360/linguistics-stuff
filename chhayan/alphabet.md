@@ -61,7 +61,11 @@ The `āpat̀rofē`(apostrophe) after an i makes it a short i sound, and after u 
 ## Double letters
 Double letters are geminated.
 
+## Nasalization
+Add a superscript "ⁿ" to nasalize the vowel before.
+
 ## Practice
 Pronounce these words:  
 t̂āṕē <details><summary>Click to see pronunciation</summary>«dh-aa-b-ay»</details>  
 mask <details><summary>Click to see pronunciation</summary>«m-uh-s-k»</details>
+
