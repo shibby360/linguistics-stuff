@@ -27,7 +27,7 @@ The only diacritics on consonants are acute accent, grave accent, and circumflex
 | Ć | «j» |
 | T́ | «d» |
 | T̀ | «th» |
-| T̂ | «dh» |
+| T̂ | other «th»  as in broTHer |
 | Ṕ | «b» |
 | F́ | «v» |
 | Ś | «z» |
@@ -63,6 +63,11 @@ Double letters are geminated.
 
 ## Nasalization
 Add a superscript "ⁿ" to nasalize the vowel before.
+
+## Other characters
+| | |
+| --- | --- |
+| Ꝛ ꝛ | Rolled R |
 
 ## Practice
 Pronounce these words:  
