@@ -1,5 +1,5 @@
 # Codephabet
-*some random alphabet*
+*alt alphabet for chhayan*
 
 Format:
 Letter: name sounds like; sound
