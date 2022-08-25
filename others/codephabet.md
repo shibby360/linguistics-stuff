@@ -10,7 +10,7 @@ Alphabet:
 | L | "Lay" | "L" |
 | Z | "Zaa" | "Ts" |
 | E | "Eeh" | "Eh" |
-| A | "Aah" | "Uh" |
+| A | "Aah" | "Ah"(English a, as in cat) |
 | S | "Shigh" | "Sh" |
 | G | "Aag" | "G" |
 | T | "Thuh" | "Th" |
@@ -30,3 +30,5 @@ Alphabet:
 | W | "Waw" | "W" |
 | X | "Skye" | "Sk" |
 | Y | "Yay" | "Y" |
+
+Kudfavet = Codephabet(Kodhfahbet)
