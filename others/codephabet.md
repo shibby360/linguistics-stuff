@@ -3,7 +3,7 @@
 *some weird alphabet*
 
 Alphabet:
-| Letter | Name | Sound |
+| Letter | Name(sound in english) | Sound(in english) |
 | --- | --- | --- |
 | O | "Owo" | "Ooh" |
 | I | "Igh" | "Ih" |
@@ -22,6 +22,7 @@ Alphabet:
 | J | "Eezh" | "Zh" |
 | K | "Keh" | "K" |
 | N | "Nah" | "N"/"M" |
+| M | "Mah" | N/A |
 | P | "Peh" | "P" |
 | Q | "Kwo" | "Ku" |
 | R | "Air" | "R" |
@@ -31,4 +32,10 @@ Alphabet:
 | X | "Skye" | "Sk" |
 | Y | "Yay" | "Y" |
 
-Kudfavet = Codephabet(Kodhfahbet)
+N makes the "M" sound before p and v. The letter is present just to be present.  
+At the end of a word, vowels say their name.
+
+Digraphs:
+| Letters | Sound(in english) |
+| --- | --- |
+| eu | uh |
