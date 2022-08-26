@@ -28,14 +28,18 @@ Alphabet:
 | R | "Air" | "R" |
 | U | "Yo" | "Oh" |
 | V | "Bab" | "B" |
-| W | "Waw" | "W" |
+| W | "Wawe" | "W" |
 | X | "Skye" | "Sk" |
 | Y | "Yay" | "Y" |
 
 N makes the "M" sound before p and v. The letter is present just to be present.  
 At the end of a word, vowels say their name.
 
-Digraphs:
+Digraphs/Trigraphs:
 | Letters | Sound(in english) |
 | --- | --- |
-| eu | uh |
+| eo | uh |
+| tt | t |
+| dd | d |
+| ddj | j |
+| ts | ch |
