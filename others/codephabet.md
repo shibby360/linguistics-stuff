@@ -35,23 +35,36 @@ Alphabet:
 N makes the "M" sound before p and v. The letter is present just to be present.  
 At the end of a word, vowels say their name.
 If I, E, or A is present in a "vowel cluster", they say their name, if not in an already registered digraph.  
-I, E, and A become r-colored in front of r, put two to make it say it's name.
-Any vowel will say it's name when an apostrophe comes after.
+I, E, and A become r-colored in front of r, put two to make it say it's name.  
+Any vowel will say it's name when an apostrophe comes after.  
+Letters/Combinations of letters will have a "voicing rank", which goes down at the end of a word. They also have classes, and you use that to identify the sound that comes after.  
+| Letters | Rank | Class |
+| --- | --- | --- |
+| gg | 3 | Velar |
+| g | 2 | Velar |
+| kk | 2 | Velar |
+| k | 1 | Velar |
+| -(No sound) | 0 | Velar |
+| dd | 3 | Dental |
+| d | 2 | Dental |
+| tt | 2 | Dental |
+| t | 1 | Dental |
+| -(No sound) | 0 | Dental |
+| vv | 3 | Labial |
+| v | 2 | Labial |
+| pp | 2 | Labial |
+| p | 1 | Labial |
+| -(No sound) | 0 | Labial |
+
 
 Digraphs/Trigraphs:
 | Letters | Sound(in english) |
 | --- | --- |
 | eo | uh |
 | aw | awe |
-| tt | t |
-| dd | d |
-| ddj | j |
-| ts | ch |
+| 't | t |
+| 'd | d |
+| 'dj | j |
+| 'ts | ch |
 | zc | z |
-| tc | sh |
-
-Vrandd nyo me
-
-Awl i's awn me
-
-andd datt Ma'kc yo laarddjer dan li'f
+| 'tc | sh |
