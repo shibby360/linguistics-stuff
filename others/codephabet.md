@@ -34,15 +34,24 @@ Alphabet:
 
 N makes the "M" sound before p and v. The letter is present just to be present.  
 At the end of a word, vowels say their name.
-If I, E, or A is present in a "vowel cluster", they say their name, if not in an already registered digraph.
+If I, E, or A is present in a "vowel cluster", they say their name, if not in an already registered digraph.  
+I, E, and A become r-colored in front of r, put two to make it say it's name.
+Any vowel will say it's name when an apostrophe comes after.
 
 Digraphs/Trigraphs:
 | Letters | Sound(in english) |
 | --- | --- |
 | eo | uh |
+| aw | awe |
 | tt | t |
 | dd | d |
 | ddj | j |
 | ts | ch |
 | zc | z |
 | tc | sh |
+
+Vrandd nyo me
+
+Awl i's awn me
+
+andd datt Ma'kc yo laarddjer dan li'f
