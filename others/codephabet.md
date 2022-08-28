@@ -8,7 +8,7 @@ Alphabet:
 | O | "Owo" | "Ooh" |
 | I | "Igh" | "Ih" |
 | L | "Lay" | "L" |
-| Z | "Zaa" | "Ts" |
+| Z | "Zaa" | "Z" |
 | E | "Eeh" | "Eh" |
 | A | "Aah" | "Ah"(English a, as in cat) |
 | S | "Shigh" | "Sh" |
@@ -33,7 +33,7 @@ Alphabet:
 | Y | "Yay" | "Y" |
 
 N makes the "M" sound before p and v. The letter is present just to be present.  
-At the end of a word, vowels say their name.
+At the end of a word, I, E, and A say their name.
 If I, E, or A is present in a "vowel cluster", they say their name, if not in an already registered digraph.  
 I, E, and A become r-colored in front of r, put two to make it say it's name.  
 Any vowel will say it's name when an apostrophe comes after.  
@@ -60,6 +60,11 @@ Letters/Combinations of letters will have a "voicing rank", which goes down at t
 | ss | 2 | Alveo-ridge |
 | s | 1 | Alveo-ridge |
 | -(No sound) | 0 | Alveo-ridge |
+| zz | 3 | Alveolar |
+| z | 2 | Alveolar |
+| cc | 2 | Alveolar |
+| c | 1 | Alveolar |
+| -(No sound) | 0 | Alveolar |
 
 
 Digraphs/Trigraphs:
@@ -71,5 +76,7 @@ Digraphs/Trigraphs:
 | 'd | d |
 | 'dj | j |
 | 'ts | ch |
-| zc | z |
 | 'tc | sh |
+
+
+I leobb yo.  
