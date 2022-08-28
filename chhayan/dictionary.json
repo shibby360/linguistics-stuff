@@ -636,5 +636,8 @@
   "about":{
     "word":"oṕa",
     "speech_part":"preposition"
-  }
+  },
+  "to_come":{
+    "word":"āk itti",
+    "speech_part":"verb"
 }
