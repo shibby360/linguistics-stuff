@@ -55,6 +55,11 @@ Letters/Combinations of letters will have a "voicing rank", which goes down at t
 | pp | 2 | Labial |
 | p | 1 | Labial |
 | -(No sound) | 0 | Labial |
+| jj | 3 | Alveo-ridge |
+| j | 2 | Alveo-ridge |
+| ss | 2 | Alveo-ridge |
+| s | 1 | Alveo-ridge |
+| -(No sound) | 0 | Alveo-ridge |
 
 
 Digraphs/Trigraphs:
