@@ -65,6 +65,12 @@ Letters/Combinations of letters will have a "voicing rank", which goes down at t
 | cc | 2 | Alveolar |
 | c | 1 | Alveolar |
 | -(No sound) | 0 | Alveolar |
+| 'dd | 3 | Alveo-stop |
+| 'd | 2 | Alveo-stop |
+| 'tt | 2 | Alveo-stop |
+| 't | 1 | Alveo-stop |
+| -(No sound) | 0 | Alveo-stop |
+
 
 
 Digraphs/Trigraphs:
@@ -72,11 +78,12 @@ Digraphs/Trigraphs:
 | --- | --- |
 | eo | uh |
 | aw | awe |
+| ai | ay |
 | 't | t |
 | 'd | d |
 | 'dj | j |
 | 'ts | ch |
 | 'tc | sh |
 
-
-I leobb yo.  
+Ho aar yo?  
+Dis perceon izz wiked cmaar'd.
