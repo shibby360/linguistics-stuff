@@ -86,4 +86,4 @@ Digraphs/Trigraphs:
 | 'tc | sh |
 
 Ho aar yo?  
-Dis perceon izz wiked cmaar'd.
+Dis perceon izz wiked cmaar'd.  
