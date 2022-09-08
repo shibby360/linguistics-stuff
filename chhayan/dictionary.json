@@ -640,4 +640,20 @@
   "to_come":{
     "word":"āk itti",
     "speech_part":"verb"
+  },
+  "forest":{
+    "word":"tĭāmṕom",
+    "speech_part":"noun",
+    "gender":"masculine"
+  },
+  "coal":{
+    "word":"kolā",
+    "speech_part":"noun",
+    "gender":"feminine"
+  },
+  "song":{
+    "word":"sunḱḱa",
+    "speech_part":"noun",
+    "gender":"feminine"
+  }
 }
