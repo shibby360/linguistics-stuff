@@ -74,3 +74,5 @@ Pronounce these words:
 t̂āṕē <details><summary>Click to see pronunciation</summary>«dh-aa-b-ay»</details>  
 mask <details><summary>Click to see pronunciation</summary>«m-uh-s-k»</details>
 
+## Disclaimer
+If any words in the dictionary are different in the lessons, then the dictionary is correct.
