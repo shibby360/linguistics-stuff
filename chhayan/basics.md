@@ -28,6 +28,6 @@ fimā(f-ee-m-aa) = girl
 kāir(k-aa-ee-r) = car  
 
 ## Yes and No
-`Hān` = Yes  
-`Ni` = No  
+`Hāⁿ` = Yes  
+`Nē` = No  
 `Non` = Not(in verb negation, this comes before the verb.
