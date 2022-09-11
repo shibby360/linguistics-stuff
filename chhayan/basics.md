@@ -30,4 +30,4 @@ kāir(k-aa-ee-r) = car
 ## Yes and No
 `Hāⁿ` = Yes  
 `Nē` = No  
-`Non` = Not(in verb negation, this comes before the verb.
+`Non` = Not(in verb negation, this comes before the verb)
