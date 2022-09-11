@@ -11,7 +11,7 @@ Example chart with `Ṕom`:
 | `Ṕos` | `Ṕoa` | `Ṕom` | `Ṕoi` |
 
 ## Practice
-Write all the forms of `Krāsm`(red).
+Write all the forms of `Kꝛāsm`(red).
 | Masculine | Feminine | Neutral | Plural
 | --- | --- | --- | --- |
-| <details><summary>Click to see answer</summary>`Krāss`</details> | <details><summary>Click to see answer</summary>`Krāsa`</details> | <details><summary>Click to see answer</summary>`Krāsm`</details> | <details><summary>Click to see answer</summary>`Krāsi`</details> |
+| <details><summary>Click to see answer</summary>`Kꝛāss`</details> | <details><summary>Click to see answer</summary>`Kꝛāsa`</details> | <details><summary>Click to see answer</summary>`Kꝛāsm`</details> | <details><summary>Click to see answer</summary>`Kꝛāsi`</details> |
