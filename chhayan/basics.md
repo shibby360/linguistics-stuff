@@ -11,13 +11,13 @@ Here are the conversion charts(from Nominative)
 | Nominative | Genitive | Example |
 | --- | --- | --- |
 | -a/-ā | -i | fimā => fimi |
-| -o/-ē | -u | āknĭo => āknĭu |
+| -o/-ē | -u | ākno => āknu |
 | zero ending(consonant) | -o | kāir => kāiro |
 
 | Nominative | Accusative | Example |
 | --- | --- | --- |
 | -a | -i | ŭāta => ŭāti |
-| -o/-ē | -ā | āknĭo => āknĭā |
+| -o/-ē | -ā | ākno => āknā |
 | zero ending(consonant) | -u | kāir => kāiru |
 
 ## Pronunciation
