@@ -691,5 +691,9 @@
   "to_help":{
     "word":"āk mat̂āt",
     "speech_part":"verb"
+  },
+  "guest":{
+    "word":"q́ēs̀t̀",
+    "speech_part":"noun"
   }
 }
