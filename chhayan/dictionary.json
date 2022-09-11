@@ -5,7 +5,7 @@
      "gender":"feminine"
   },
   "window":{
-     "word":"āknĭo",
+     "word":"ākno",
      "speech_part":"noun",
      "gender":"neutral"
   },
@@ -132,11 +132,11 @@
     "gender":"feminine"
   },
   "yes":{
-    "word":"hān",
+    "word":"hāⁿ",
     "speech_part":"adverb/interjection"
   },
   "no":{
-    "word":"ni",
+    "word":"n",
     "speech_part":"adverb/interjection"
   },
   "not":{
@@ -655,5 +655,38 @@
     "word":"sunḱḱa",
     "speech_part":"noun",
     "gender":"feminine"
-  }
+  },
+  "very":{
+    "word":"ocen",
+    "speech_part":"adverb"
+  },
+  "morning":{
+    "word":"t̂āṕē",
+    "speech_part":"noun",
+    "gender":"neutral"
+  },
+  "thank_you":{
+    "word":"spasipo",
+    "speech_part":"interjection"
+  },
+  "afternoon":{
+    "word":"ten",
+    "speech_part":"noun",
+    "gender":"masculine"
+  },
+  "evening":{
+    "word":"āt́ap",
+    "speech_part":"noun",
+    "gender":"masculine"
+  },
+  "night":{
+    "word":"noci",
+    "speech_part":"noun",
+    "gender":"masculine"
+  },
+  "please":{
+    "word":"ṕās̀usta",
+    "speech_part":"interjection"
+  },
+  
 }
