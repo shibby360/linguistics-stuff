@@ -83,7 +83,6 @@ Digraphs/Trigraphs:
 | 'd | d |
 | 'dj | j |
 | 'ts | ch |
-| 'tc | sh |
 
 Ho aar yo?  
 Dis perceon izz wiked cmaar'd.  
