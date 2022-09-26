@@ -26,7 +26,7 @@ Alphabet:
 | P | "Peh" | "P" |
 | Q | "Kwo" | "Ku" |
 | R | "Air" | "R" |
-| U | "Yo" | "Oh" |
+| U | "Yuh" | "Yoo" |
 | V | "Bab" | "B" |
 | W | "Wawe" | "W" |
 | X | "Skye" | "Sk" |
