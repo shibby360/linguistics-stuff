@@ -27,13 +27,14 @@ The only diacritics on consonants are acute accent, grave accent, and circumflex
 | Ć | «j» |
 | T́ | «d» |
 | T̀ | «th» |
-| T̂ | other «th»  as in broTHer |
+| T̂ | other «th» as in broTHer |
 | Ṕ | «b» |
 | F́ | «v» |
 | Ś | «z» |
 | S̀ | «sh» |
 | Ŝ | «zh» |
 | R̀ | This does not have any english equivalent. It is like the _tt_ in _bu**tt**er_, but trilled. IPA: ɽ, Hindi: ड़|
+| L̀ | This is like "l", but your tongue is not touching your top teeth. |
 
 Notice only consonants are shown, this becuase vowels are written seperately when writing the alphabet. Accent marks are also used on vowels as well. The name of a vowel is simply its sound.   
 **Vowels with accent marks shown here are not written in the alphabet!**
