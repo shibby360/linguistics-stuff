@@ -693,7 +693,11 @@
     "speech_part":"verb"
   },
   "guest":{
-    "word":"q́ēs̀t̀",
+    "word":"ḱast",
     "speech_part":"noun"
+  },
+  "clean":{
+    "word":"sāⁿf",
+    "speech_part":"adjective"
   }
 }
