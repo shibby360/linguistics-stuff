@@ -1,6 +1,7 @@
 # Altphabet
 
 | Letter | Sound |
+| - | - |
 | A | uh |
 | B | b |
 | C | ch |
