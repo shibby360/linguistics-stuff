@@ -15,7 +15,7 @@
 | K | k |
 | L | l |
 | M | m |
-| N | n |
+| N | ny, palatal nasal |
 | O | oh |
 | P | p |
 | Q | Uvular k |
@@ -29,3 +29,31 @@
 | Y | y |
 | Z | z |
 
+Double vowels make these sounds:
+| Vowel | Doubled sound |
+| - | - |
+| a | aah |
+| i | eeh |
+| u | ooh like in shoot |
+
+Consonants with an apostrophe after make these sounds:
+| Consonant | Sound |
+| - | - |
+| s | sh |
+| z | zh |
+| t | th |
+| d | Other th |
+| r | Rolled r |
+| l | L with touching your top teeth |
+
+These are digraphs:
+| Digraph | Sound |
+| - | - |
+| ae | ay |
+| ea | a in cat |
+| au | awe or short o |
+| gx | gh, german ch but voiced |
+| gq | Uvular g |
+
+Ya znaat toa maama.  
+Muz'es non het d'imaag.
