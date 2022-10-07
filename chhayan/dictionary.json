@@ -703,5 +703,10 @@
   "smart":{
     "word":"t̂i'māk",
     "speech_part":"adjective"
+  },
+  "outside":{
+    "word":"ṕhāꝛ",
+    "speech_part":"adverb/adjective/preposition/noun",
+    "gender":"masculine"
   }
 }
