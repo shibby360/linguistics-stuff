@@ -697,16 +697,21 @@
     "speech_part":"noun"
   },
   "clean":{
-    "word":"sāⁿf",
+    "word":"sāⁿfĭem",
     "speech_part":"adjective"
   },
   "smart":{
-    "word":"t̂i'māk",
+    "word":"t̂i'mākĭem",
     "speech_part":"adjective"
   },
   "outside":{
-    "word":"ṕhāꝛ",
+    "word":"ṕhāꝛm",
     "speech_part":"adverb/adjective/preposition/noun",
     "gender":"masculine"
+  },
+  "tune":{
+    "word":"tuna",
+    "speech_part":"noun/verb",
+    "gender":"feminine",
   }
 }
