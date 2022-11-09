@@ -16,6 +16,8 @@ Letters:
 | a | uh, /ə/ |
 | i | ih, /ɪ/ |
 | u | ooh, /ʊ/ |
+| n | n, /n/ |
+| m | m, /m/ |
 | q | w, /w/ |
 | y | y, /j/ |
 | h | h, /h/ |
