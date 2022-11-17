@@ -713,5 +713,23 @@
     "word":"tuna",
     "speech_part":"noun/verb",
     "gender":"feminine",
+  },
+  "lake":{
+    "word":"likaĭ",
+    "speech_part":"noun",
+    "gender":"masculine"
+  },
+  "clue":{
+    "word":"cuē",
+    "speech_part":"noun",
+    "gender":"neutral"
+  },
+  "swarm":{
+    "word":"sŭarm",
+    "speech_part":"noun/verb",
+    "gender":"masculine",
+    "alt_en_ch":[
+      "āk sŭarm"
+    ]
   }
 }
