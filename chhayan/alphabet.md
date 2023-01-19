@@ -63,7 +63,7 @@ The `āpat̀rofē`(apostrophe) after an i makes it a short i sound, and after u 
 Double letters are geminated.
 
 ## Nasalization
-Add a superscript "ⁿ" to nasalize the vowel before.
+Add a combining tilde " ̃" to nasalize the vowel.
 
 ## Other characters
 | | |
