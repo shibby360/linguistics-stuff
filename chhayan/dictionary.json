@@ -735,5 +735,9 @@
   "more":{
     "word":"or",
     "speech_part":"adjective/adverb"
+  },
+  "or":{
+    "word":"ĭā",
+    "speech_part":"conjunction"
   }
 }
