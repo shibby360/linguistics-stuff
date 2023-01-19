@@ -527,7 +527,7 @@
   },
   "to_see":{
     "word":"āk fēri f́it́",
-    "speech_part":"verb",
+    "speech_part":"verb"
   },
   "woman":{
     "word":"s̀ens̀ca",
@@ -712,7 +712,7 @@
   "tune":{
     "word":"tuna",
     "speech_part":"noun/verb",
-    "gender":"feminine",
+    "gender":"feminine"
   },
   "lake":{
     "word":"likaĭ",
