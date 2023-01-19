@@ -132,7 +132,7 @@
     "gender":"feminine"
   },
   "yes":{
-    "word":"hāⁿ",
+    "word":"hā̃",
     "speech_part":"adverb/interjection"
   },
   "no":{
@@ -697,7 +697,7 @@
     "speech_part":"noun"
   },
   "clean":{
-    "word":"sāⁿfĭem",
+    "word":"sā̃fĭem",
     "speech_part":"adjective"
   },
   "smart":{
