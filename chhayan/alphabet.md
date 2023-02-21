@@ -51,7 +51,8 @@ Notice only consonants are shown, this becuase vowels are written seperately whe
 | U u | m<ins>oo</ins>n |
 | ŭ | <ins>w</ins>ar |
 
-"a" and "e" become r-colored before "r"(er/ur/ir).  
+"a" become r-colored before "r"(er/ur/ir).  
+"e" makes the "air" sound.  
 "N" changes to the nasal it needs to for the consonant right after. It is dental nasal the end of a word, and palatal before a vowel.
 "J" and "V" are variants of "I" and "U", respectively, meaning they can be used interchangeably.  
 Words cannot end with plain "e", but the can still end with "eh" sound with `āĭ`.
