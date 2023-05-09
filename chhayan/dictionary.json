@@ -739,5 +739,10 @@
   "or":{
     "word":"ĭā",
     "speech_part":"conjunction"
+  },
+  "book":{
+    "word":"lif́rā",
+    "speech_part":"noun",
+    "gender":"feminine"
   }
 }
