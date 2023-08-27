@@ -749,5 +749,9 @@
     "word":"mèći'kā",
     "speech_part":"noun",
     "gender":"feminine"
+  },
+  "to_push":{
+    "word":"āk pres̀",
+    "speech_part":"verb"
   }
 }
