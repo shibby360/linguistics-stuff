@@ -2,8 +2,8 @@
 *alt alphabet for chhayan*
 
 Format:
-Letter: name sounds like; sound
-OR
+Letter: name sounds like; sound  
+OR  
 Letter: name and sound
 
 A: aah  
