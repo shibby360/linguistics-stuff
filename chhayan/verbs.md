@@ -25,6 +25,7 @@ Future tense is created by -f́iā.
 ## Special Verbs
 to air vent = `āk ārf́ent`  
   + (air venting is venting while in the air)
+
 to jump off a swing = `āk ćŭinḱ`
 ## Modal Verbs(can, should, etc.)
 These verbs stay the same, and use the stem of the verb after.  
