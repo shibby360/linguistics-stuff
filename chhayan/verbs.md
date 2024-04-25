@@ -45,6 +45,9 @@ You have a choice on whether or not you want to include the subject, however, wh
 | 1st person | -ē | -onē |
 | 2nd person | -ā | -onā |
 | 3rd person | -ēā | -onēā |
+## Negation
+`non` comes before the verb.
+`Ĭa non het pilḱani` = I am not playing.
 
 To formalize the you's, add a -si.
 If it is obvious who you are talking about, then you do not need to add the ending. For fērif́ērṕs, the fēri gets conjugated.
