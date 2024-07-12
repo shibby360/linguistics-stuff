@@ -23,3 +23,5 @@ Follow them in this order:
 + [Questions](https://github.com/shibby360/new-lang/blob/main/chhayan/questions.md)
 + [Countries](https://github.com/shibby360/new-lang/blob/main/chhayan/countries.md)
 + [Slang](https://github.com/shibby360/new-lang/blob/main/chhayan/slang.md)
+
+...and other languages are there too
