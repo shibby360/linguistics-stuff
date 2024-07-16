@@ -750,8 +750,18 @@
     "speech_part":"noun",
     "gender":"feminine"
   },
-  "to_push":{
+  "to_press":{
     "word":"āk pres̀",
     "speech_part":"verb"
+  },
+  "month":{
+    "word":"mont",
+    "speech_part":"noun",
+    "gender":"masculine"
+  },
+  "week":{
+    "word":"saminā",
+    "speech_part":"noun",
+    "gender":"feminine"
   }
 }
