@@ -4,4 +4,4 @@ verbs are $log_{\text{number of base}}(\text{word})$
 
 the number of the base is a fraction based on the subject. the number of the perspective is the top, and the bottom is $1$ for singular, and $2$ for plural.
 
-I am running = $log_{\frac{1}{1}}(1_82_11_41_491_47)$
+I am running = $log_{\frac{1}{1}}(18*21*14*14*9*14*7)$
